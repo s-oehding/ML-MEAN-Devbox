@@ -1,0 +1,5 @@
+.vagrant
+www/ioncube
+www/adminer
+www/html/*.html
+/.project

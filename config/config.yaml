@@ -1,0 +1,11 @@
+---
+configs:
+  use: 'meandevbox'
+  devbox:
+    vm_ip: '192.168.0.254'
+    vm_hostname: 'mean'
+    vm_url: 'mean.dev'
+    vm_name: 'meandevbox'
+    db_name: 'testdb'
+    db_user: 'dbuser'
+    db_pass: 'passwort'
